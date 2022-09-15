@@ -24,6 +24,6 @@ class Coche {
     public int puertas = 4;
 
     public void agregarpuerta() {
-        this.puertas--;
+        this.puertas++;
     }
 }
